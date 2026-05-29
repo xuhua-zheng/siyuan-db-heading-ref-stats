@@ -52,7 +52,7 @@
 
 | 微信支付 | 支付宝 |
 | --- | --- |
-| ![微信支付付款码](/plugins/siyuan-db-heading-ref-stats/assets/wechat-pay.png) | ![支付宝付款码](/plugins/siyuan-db-heading-ref-stats/assets/alipay.jpg) |
+| ![微信支付付款码](https://raw.githubusercontent.com/xuhua-zheng/siyuan-db-heading-ref-stats/main/assets/wechat-pay.png) | ![支付宝付款码](https://raw.githubusercontent.com/xuhua-zheng/siyuan-db-heading-ref-stats/main/assets/alipay.jpg) |
 
 ## 构建
 

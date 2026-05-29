@@ -52,7 +52,7 @@ If this plugin helps you, support is welcome:
 
 | WeChat Pay | Alipay |
 | --- | --- |
-| ![WeChat Pay QR code](/plugins/siyuan-db-heading-ref-stats/assets/wechat-pay.png) | ![Alipay QR code](/plugins/siyuan-db-heading-ref-stats/assets/alipay.jpg) |
+| ![WeChat Pay QR code](https://raw.githubusercontent.com/xuhua-zheng/siyuan-db-heading-ref-stats/main/assets/wechat-pay.png) | ![Alipay QR code](https://raw.githubusercontent.com/xuhua-zheng/siyuan-db-heading-ref-stats/main/assets/alipay.jpg) |
 
 ## Build
 

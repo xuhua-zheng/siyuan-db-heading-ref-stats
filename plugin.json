@@ -2,7 +2,7 @@
   "name": "siyuan-db-heading-ref-stats",
   "author": "xuhua-zheng",
   "url": "https://github.com/xuhua-zheng/siyuan-db-heading-ref-stats",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "3.6.4",
   "backends": [
     "all"
