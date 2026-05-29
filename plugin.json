@@ -1,0 +1,36 @@
+{
+  "name": "siyuan-db-heading-ref-stats",
+  "author": "xuhua-zheng",
+  "url": "https://github.com/xuhua-zheng/siyuan-db-heading-ref-stats",
+  "version": "0.1.0",
+  "minAppVersion": "3.6.4",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "all"
+  ],
+  "disabledInPublish": false,
+  "displayName": {
+    "default": "Heading Ref Sync",
+    "zh_CN": "标题引用同步"
+  },
+  "description": {
+    "default": "Right-click a database item to sync block reference names under same-name headings into matching text fields.",
+    "zh_CN": "右键数据库条目，将绑定文档中同名标题下的块引用名称同步到对应文本字段。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "keywords": [
+    "database",
+    "heading",
+    "block reference",
+    "sync",
+    "数据库",
+    "标题",
+    "块引用",
+    "同步"
+  ]
+}

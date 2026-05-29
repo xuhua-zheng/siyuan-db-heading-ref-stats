@@ -1,0 +1,13 @@
+{
+  "syncHeadingRefStats": "同步标题引用",
+  "syncSelectedHeadingRefStats": "同步所选标题引用",
+  "settingsSaved": "设置已保存",
+  "nameSeparator": "名字分隔符",
+  "nameSeparatorDesc": "多个块引用名称之间的分隔符。同步时会匹配所有等级标题，并忽略标题开头的 1.2、1.3 等序号。",
+  "deduplicateByTargetBlock": "按被引用块去重",
+  "deduplicateByTargetBlockDesc": "同一个被引用块在标题下出现多次时只写一次。",
+  "noCurrentDatabase": "没有找到当前数据库",
+  "noTextFields": "当前数据库没有可用于匹配标题的文本字段",
+  "noRows": "没有找到可同步的绑定数据库条目",
+  "syncSummary": "标题引用同步完成：处理 ${scanned} 个条目，写入 ${fields} 个字段"
+}

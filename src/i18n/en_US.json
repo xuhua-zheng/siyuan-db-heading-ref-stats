@@ -1,0 +1,13 @@
+{
+  "syncHeadingRefStats": "Sync heading refs",
+  "syncSelectedHeadingRefStats": "Sync selected heading refs",
+  "settingsSaved": "Settings saved",
+  "nameSeparator": "Name separator",
+  "nameSeparatorDesc": "Separator inserted between multiple reference names. Sync matches all heading levels and ignores leading numbers such as 1.2 or 1.3.",
+  "deduplicateByTargetBlock": "Deduplicate by target block",
+  "deduplicateByTargetBlockDesc": "Count the same referenced block only once under the matched heading.",
+  "noCurrentDatabase": "No current database found",
+  "noTextFields": "The current database has no text fields to match headings",
+  "noRows": "No bound database items found",
+  "syncSummary": "Heading refs synced: scanned ${scanned} items, wrote ${fields} fields"
+}
