@@ -48,11 +48,7 @@
 
 如有问题或建议，可以通过 GitHub Issue 反馈，或通过邮箱联系：`1092242849@qq.com`。
 
-如果这个插件对你有帮助，欢迎支持作者：
-
-| 微信支付 | 支付宝 |
-| --- | --- |
-| ![微信支付付款码](https://raw.githubusercontent.com/xuhua-zheng/siyuan-db-heading-ref-stats/main/assets/wechat-pay.png) | ![支付宝付款码](https://raw.githubusercontent.com/xuhua-zheng/siyuan-db-heading-ref-stats/main/assets/alipay.jpg) |
+如果你感觉本插件对你有用，请帮我点亮 🌟，感谢支持！🙏
 
 ## 构建
 

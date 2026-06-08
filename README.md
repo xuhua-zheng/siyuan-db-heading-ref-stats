@@ -48,11 +48,7 @@ The plugin only uses SiYuan's public APIs. It does not modify the SiYuan kernel 
 
 For issues or suggestions, use GitHub Issues or email `1092242849@qq.com`.
 
-If this plugin helps you, support is welcome:
-
-| WeChat Pay | Alipay |
-| --- | --- |
-| ![WeChat Pay QR code](https://raw.githubusercontent.com/xuhua-zheng/siyuan-db-heading-ref-stats/main/assets/wechat-pay.png) | ![Alipay QR code](https://raw.githubusercontent.com/xuhua-zheng/siyuan-db-heading-ref-stats/main/assets/alipay.jpg) |
+If this plugin helps you, please give it a 🌟. Thanks for your support! 🙏
 
 ## Build
 
