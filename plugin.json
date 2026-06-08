@@ -2,7 +2,7 @@
   "name": "siyuan-db-heading-ref-stats",
   "author": "xuhua-zheng",
   "url": "https://github.com/xuhua-zheng/siyuan-db-heading-ref-stats",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minAppVersion": "3.6.4",
   "backends": [
     "all"
@@ -10,7 +10,7 @@
   "frontends": [
     "all"
   ],
-  "disabledInPublish": false,
+  "disabledInPublish": true,
   "displayName": {
     "default": "Heading Ref Sync",
     "zh_CN": "标题引用同步"
